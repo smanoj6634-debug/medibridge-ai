@@ -1,0 +1,6 @@
+flask
+python-dotenv
+psycopg2-binary
+gunicorn
+pywebpush
+tzdata
